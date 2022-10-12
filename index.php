@@ -9,7 +9,7 @@
         <h1><?php echo 'Hello, World!'; ?></h1>
         <h1><?php echo 'Sukanya-62010914605'; ?></h1>
         <h1><?php echo 'RESUME'; ?></h1>
-        <h1><?php echo 'Name Sukanya Mayotha'; ?></h1>
-        <h1><?php echo 'Maharasakham University'; ?></h1>
+        <h2><?php echo 'Sukanya Mayotha'; ?></h2>
+        <h2><?php echo 'Maharasakham University'; ?></h2>
 </body>
 </html>
