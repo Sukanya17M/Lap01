@@ -11,6 +11,6 @@
         <h1><?php echo 'RESUME'; ?></h1>
         <h2><?php echo 'Sukanya Mayotha'; ?></h2>
         <h2><?php echo 'Maharasakham University'; ?></h2>
-        <h2><?php echo 'BBA; ?></h2>
+        
 </body>
 </html>
